@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Priya Sharma",
+    "specialization": "Cardiologist",
+    "image": "https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-indian-doctor-woman-smiling-at-camera-png-image_12531120.png",
+    "status": "Available Today",
+    "slots": ["2025-08-02T09:00", "2025-08-02T14:00"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rahul Singh",
+    "specialization": "Dermatologist",
+    "image": "https://png.pngtree.com/png-clipart/20231002/original/pngtree-young-afro-professional-doctor-png-image_13227671.png",
+    "status": "Fully Booked",
+    "slots": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Meena Das",
+    "specialization": "Neurologist",
+    "image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsb2ZmaWNlMV9waG90b2dyYXBoeV9vZl9hbl9zb3V0aF9pbmRpYW5fd29tZW5fYXNfYV9kb2N0b19kMzAxMDM3Zi03MDUzLTQxNDAtYmYyZS1lZDFlYWE0YTM3NDRfMS5qcGc.jpg",
+    "status": "On Leave",
+    "slots": []
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ramya Sharma",
+    "specialization": "Dentist",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMmd1ssZ2L28R_Eg-QJ3nypG727-boMy5Pw&s",
+    "status": "Available Today",
+    "slots": ["2025-08-02T09:00", "2025-08-02T14:00"]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Raju Mishra",
+    "specialization": "Dermatologist",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWPjrmGzkNEoOj9IjCCs1JtDwo7Fqb2WxPwhxU8Vj1-qRXyk8U7ro8XoWtTzOVQRmaLA&usqp=CAU",
+    "status": "Fully Booked",
+    "slots": []
+  },
+  {
+    "id": 6,
+    "name": "Dr. Munna Das",
+    "specialization": "Neurologist",
+    "image": "https://t3.ftcdn.net/jpg/11/43/63/04/360_F_1143630468_7GC4d1aQlMDT7W5KmmQBMuSCT4JWkLqD.jpg",
+    "status": "On Leave",
+    "slots": []
+  }
+]
